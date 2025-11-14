@@ -145,3 +145,9 @@ Feel free to add your own creative touches for bonus points:
 - Additional character classes beyond the three required
 - More weapon types with different properties
 - Enhanced special abilities with unique effects
+
+
+  README.md Requirements
+  -Bonus Creative Features: None were added
+  -Ai Usage: Minor Code fixes such as indentation and AI was used to implement critcial hit method for the rogue class
+  -How to Run: When the file is opened you can select which fighters you want to battle, after fighters are selected you can run the file which will then simulate a battle between the 2 and when a fighters health reaches 0 the battle ends
